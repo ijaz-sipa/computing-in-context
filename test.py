@@ -1,5 +1,5 @@
 import re
 
-print(1+1)
+print(2+5)
 
 re.search()
