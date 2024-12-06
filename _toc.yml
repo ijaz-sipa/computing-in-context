@@ -1,2 +1,6 @@
 format: jb-book
-root: project_3.ipynb
+root: index
+chapters:
+- file: Project_1
+- file: Project_2
+- file: Project_3
