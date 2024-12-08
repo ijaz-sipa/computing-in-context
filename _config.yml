@@ -1,8 +1,8 @@
-title: Lab_12
+title: Computing-In-Contenx - Ijaz
 author: IJAZ
 
 execute:
-  execute_notebooks: off
+  execute_notebooks: auto
 
 sphinx:
   config:
